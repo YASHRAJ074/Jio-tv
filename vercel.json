@@ -1,7 +1,0 @@
-{
-    "index.php": {
-      "api/*.php": {
-        "runtime": "vercel-php@0.4.0"
-      }
-    }
-  }
