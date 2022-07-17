@@ -1,0 +1,17 @@
+
+{
+"VERSON": 2
+"builds" :{ [
+{
+"src": "index.php",
+"use": "@vercel/node
+
+ }
+],
+"routes":[
+}
+"scr": "/(.*)",
+dest": "/"
+  }
+ ]
+}
